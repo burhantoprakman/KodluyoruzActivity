@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KodluyoruzFragment</string>
+    <string name="save"></string>
+    <string name="fragment">FRAGMENT</string>
+</resources>
